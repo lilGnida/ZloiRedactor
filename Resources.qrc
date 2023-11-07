@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/lock.circle.fill.png</file>
+        <file>Icons/lock.circle.png</file>
+        <file>Icons/person.circle.fill.png</file>
+        <file>Icons/person.circle.png</file>
+        <file>Icons/airplane.arrival.png</file>
+        <file>Icons/airplane.departure.png</file>
+        <file>Icons/airplane.circle.png</file>
+        <file>Icons/airplane.png</file>
+        <file>Icons/forward.end.png</file>
+        <file>Icons/backward.end.png</file>
+    </qresource>
+</RCC>
